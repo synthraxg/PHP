@@ -24,7 +24,6 @@
 			<li><a href="http://en.wikipedia.org/wiki/Data_Encryption_Standard" target="_blank">DES</a></li>
 			<li><a href="examples.php">Examples</a></li>
 			<li><a href="links.php">Links</a></li>
-			<li><a href="http://mavroudisv.eu/contact">Contact</a></li>
 		</ul>
 	</div>
 
@@ -44,7 +43,6 @@
 	</div>
 </div>	
 <div id="footer">
-	Copyright &copy; Mavroudis Vasilis. All rights reserved. | Design by <a href="http://www.mavroudisv.eu/" target="_blank">Mavroudis Vasilis</a>
 </div>
 	
 </body>
